@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "lector",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
